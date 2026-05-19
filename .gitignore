@@ -1,0 +1,7 @@
+env
+keys.py
+movies.csv
+/__pycache__
+.vscode
+__pycache__
+.DS_Store
