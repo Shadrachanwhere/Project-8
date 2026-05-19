@@ -55,7 +55,8 @@ A horizontal bar chart ranking all films by runtime in descending order. *12 Yea
 A regression plot exploring whether longer films win more awards. The correlation coefficient of **0.11** indicates a negligible linear relationship — runtime alone is not a meaningful predictor of award success.
 
 ### Awards vs. Nominations
-A grouped bar chart comparing wins and nominations side by side for each film. 
+A grouped bar chart comparing wins and nominations side by side for each film.  Parasit being the most awarded movie and The shape of water being 
+the most nominated movie.
 ## Dataset
 
 The dataset (`movies.csv`) includes the following columns:
